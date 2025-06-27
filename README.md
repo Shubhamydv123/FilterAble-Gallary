@@ -3,7 +3,7 @@
 This is a stylish and responsive image gallery where users can filter images by categories such as **Nature**, **Coding**, and **Art** using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo  
-👉 [https://shubhamydv123.github.io/image-gallery](https://shubhamydv123.github.io/image-gallery)
+👉 [https://shubhamydv123.github.io/FilterAble-Gallary](https://shubhamydv123.github.io/FilterAble-Gallary)
 
 ## 📌 Features
 - Responsive image grid
@@ -17,7 +17,7 @@ This is a stylish and responsive image gallery where users can filter images by 
 - JavaScript (filter logic)
 
 ## 📷 Preview  
-![Screenshot](images/nature1.jpg)
+![Screenshot](animalImage1.jpg)
 
 ## 📁 Folder Structure
 
